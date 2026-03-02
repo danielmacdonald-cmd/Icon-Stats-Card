@@ -11,8 +11,18 @@ body{
 .two{
     background-color: white;
     border-radius: 15px;
+    padding: 20px;
+    margin-top: 20px;
+    
+   
 }
 
 table, tr, th{
-    border: black solid;
+    border: 1px solid black;
 }
+
+.three{
+    color: white;
+    background-color: black;
+}
+
